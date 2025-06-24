@@ -2,7 +2,6 @@ Package: linux-firmware-lemon
 Version: 1.0
 Section: base
 Priority: optional
-Architecture: all
-Maintainer: Your Name <you@example.com>
-Description: Firmware from two Git submodules, installed into /lib/firmware
-
+Architecture: armhf
+Maintainer: Citronics <info@citronics.eu>
+Description: Firmware for the Lemon board from two Git submodules, installed into /lib/firmware
